@@ -6,7 +6,7 @@
 
 **Brusque, SC — Brasil**
 
-[![Site](https://img.shields.io/badge/Site-bruservices.com.br-0078D4?style=for-the-badge)](https://bruservices.com.br)
+[![Site](https://img.shields.io/badge/Site-brusoft.inf.br-0078D4?style=for-the-badge)](https://brusoft.inf.br)
 
 </div>
 
