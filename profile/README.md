@@ -25,7 +25,6 @@ A **Brusoft** (Bruservices) é uma MSP focada em infraestrutura de TI e desenvol
 | **BrusoftGPT** | Agente financeiro IA — consulta ERP em linguagem natural | FastAPI + Claude API + PWA |
 | **LivnyGPT** | Agente financeiro IA para Livny (PijamaShow ERP) | FastAPI + Claude API + SQL Server |
 | **Gestão RH 365** | SaaS de holerites com integração Microsoft 365 | FastAPI + React + PostgreSQL + Graph API |
-| **KBSoft** | Documentação de TI para MSP com cofre de senhas e IA | Next.js + TypeScript + Prisma |
 | **Z5 OC** | Sistema de Ordens de Compra para construção civil | FastAPI + React 18 + PostgreSQL |
 | **Z5 Contrato Mútuo** | Geração automática de contratos de mútuo | Flask + python-docx + LibreOffice |
 
